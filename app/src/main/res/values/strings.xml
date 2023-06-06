@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Sprint_final</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--Strings utilizados en el primer layout-->
+    <string name="Titulo">¡Hola, soy Enderson Gomez! Estudiante de programacion</string>
+    
+    <string name="Experiencia">  Soy un apasionado desarrollador web y de aplicaciones móviles en Android
+    </string>
+
+    <string name="Descripcion">Me considero un nivel trainee en ambos campos, siempre buscando aprender y mejorar mis habilidades. Disfruto enfrentando desafíos y creando soluciones innovadoras.
+        Estoy emocionado de seguir creciendo en el mundo del desarrollo y contribuir en proyectos increíbles.
+    </string>
+
+    <!--Strings utilizados en el segundo layout -->
+    <string name="Titulo_layout">CONTACTAR</string>
+
+    <string name="string_boton_linkedin">LINKEDIN</string>
+
+    <string name="string_boton_whatsapp">WHATSAPP</string>
+
+</resources>
